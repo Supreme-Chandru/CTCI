@@ -1,0 +1,19 @@
+{
+  "name": "ctci",
+  "version": "1.0.0",
+  "description": "Cracking the Coding Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supreme-Chandru/CTCI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Supreme-Chandru/CTCI/issues"
+  },
+  "homepage": "https://github.com/Supreme-Chandru/CTCI#readme"
+}
